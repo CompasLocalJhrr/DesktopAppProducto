@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OL6WiQI7HY5JZ1oszIti14BXLXRp74SOPBd8vEPLnaIk9pIq1LJn9POSr2prtXdekJd3RtPYg4QZ5n8HZLNOyw==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\COMPAS\\ApiProductos\\EscritorioProductos\\EscritorioProductos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhrui\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
